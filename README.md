@@ -18,8 +18,8 @@
 
  ## GitHub Statistics
 <div>
-  <a href="https://github.com/fernandamgomes?tab=repositories" target="_blank"><img height="132em" align="center" src="https://github-readme-stats.vercel.app/api?username=fernandamgomes&show_icons=true&include_all_commits=true&theme=onedark" /></a>
-  <a href="https://github.com/fernandamgomes?tab=repositories" target="_blank"><img height="132em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandamgomes&layout=compact&theme=onedark" /></a>
+  <a href="https://github.com/fernandamgomes?tab=repositories" target="_blank"><img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=fernandamgomes&show_icons=true&include_all_commits=true&theme=onedark" /></a>
+  <a href="https://github.com/fernandamgomes?tab=repositories" target="_blank"><img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandamgomes&layout=compact&theme=onedark" /></a>
 </div>
 
 
