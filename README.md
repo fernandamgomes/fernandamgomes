@@ -28,5 +28,5 @@
 <div style="display: inline_block">
   <a href = "mailto:fernandamendesgomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-91b975?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernanda-mendes-gomes/" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-91b975?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/fernandamendesg" target="_blank"><img align="left" src="https://img.shields.io/badge/-Instagram-91b975?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/fernandamendesg/" target="_blank"><img align="left" src="https://img.shields.io/badge/-Instagram-91b975?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
