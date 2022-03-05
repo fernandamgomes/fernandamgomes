@@ -10,6 +10,7 @@
   <img align="left" alt="Python"  src="https://img.shields.io/badge/Python-282c34?style=for-the-badge&logo=python&logoColor=white" />
   <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-282c34?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="left" alt="css3"  src="https://img.shields.io/badge/CSS3-282c34?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="left" alt="Java"  src="https://img.shields.io/badge/Java-282c34?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 <br />
 <br />
